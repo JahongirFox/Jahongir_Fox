@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jahongir Raxmatjonov</h1>
 <h3 align="center">Frontend Developer (React.js)</h3>
+<h3 align="center">Backend Developer (Node.js)</h3>
 
 - 🔭 I’m currently working on [QR-CODE-GENERATOR](https://github.com/JahongirFox/QR-CODE-GENERATOR)
 

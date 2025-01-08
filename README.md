@@ -5,4 +5,4 @@
 
 <h3 align="center">I'm co-founder & CEO of DevSphere.uz Company</h3>
 
-<h3 align="left">Connect with me: Instagram: @joka__tm, Telegram: @Jahongir_Fox</h3>
+<h3 align="center">Connect with me: Instagram: @joka__tm, Telegram: @Jahongir_Fox</h3>

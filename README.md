@@ -3,7 +3,8 @@
 <h3 align="center">Frontend Developer (React.js)</h3>
 <h3 align="center">Backend Developer (Node.js)</h3>
 
-I'm co-founder & CEO of DevSphere.uz Company
+<h3 align="center">I'm co-founder & CEO of DevSphere.uz Company</h3>
+
 
 <h3 align="left">Connect with me: Instagram: @joka__tm, Telegram: @Jahongir_Fox</h3>
 <p align="left">
